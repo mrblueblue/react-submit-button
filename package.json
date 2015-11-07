@@ -1,0 +1,30 @@
+{
+  "name": "react-submit-button",
+  "version": "1.0.0",
+  "description": "submit button react component that renders according to submission state",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrblueblue/react-submit-button.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "submit",
+    "button"
+  ],
+  "author": "Jonathan Huang <jon@levity.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrblueblue/react-submit-button/issues"
+  },
+  "homepage": "https://github.com/mrblueblue/react-submit-button#readme",
+  "dependencies": {
+    "classnames": "^2.2.0",
+    "react": "^0.14.2",
+    "recompose": "^0.9.0"
+  }
+}
